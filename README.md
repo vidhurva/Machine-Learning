@@ -1,4 +1,17 @@
-# Classification
+
+# Creating my own Machine Learning Project
+
+After following the two tutorials that are mentioned in my other two classifications, I develop my own project with machine learning. In my project, I create training data to determine which quantitative values belong to which drink. The first number in the 'features' variable contain sample pH levels and a value that identifies what category belongs to each drink. For example, '7.0, 1' indicates that the pH is 7.0 and the category is 1. The category key is listed below:
+
+1 = water
+2 = vodka
+3 = gin
+4 = pepsi
+5 = rosé
+
+After that, I use a decision tree classifier in order to find patterns in the data set. Finally, I create predictions based on the training data by adding two other pieces of data. The predictions are then printed out. I intentionally left the second feature as '5' while changing the pH number to see if a difference would develop. As a result, both predictions outputted 'rose', meaning that the category number likely dominates the pH category when classifying data.
+
+
 
 # Machine Learning using Python on Classifying Fruits
 
