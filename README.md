@@ -1,3 +1,9 @@
+Installation
+---
+Using Conda:
+```
+conda install scikit-learn
+```
 
 Creating my own Machine Learning Project
 ---
