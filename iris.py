@@ -5,7 +5,7 @@ iris = load_iris()
 test_idx = [0,50,100]
 from sklearn import tree
 
-#metadata --> data already provided by skitlearn
+#metadata --> data already provided by scikitlearn
 print(iris.feature_names)
 print(iris.target_names)
 
